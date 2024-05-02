@@ -1,10 +1,12 @@
 Script to utilize Le Creuset 2024 colors in MATLAB
 
 Dutch oven colors: 
-<img src="https://github.com/annacnelson/matlabscripts/GMbUfJIXYAAUN87.jpeg" "width=100"/>
+![alt text](https://github.com/annacnelson/matlabscripts/blob/main/GMbUfJIXYAAUN87.jpeg?raw=true)
+
 
 Row 1: 
-![alt text](./row1.png =250x)
+![alt text](https://github.com/annacnelson/matlabscripts/blob/main/row1.png?raw=true)
+
 
 Row 2:
 ![alt text](https://github.com/annacnelson/matlabscripts/blob/main/row2.png?raw=true)
