@@ -4,7 +4,7 @@ Dutch oven colors:
 <img src="https://github.com/annacnelson/matlabscripts/GMbUfJIXYAAUN87.jpeg" "width=100"/>
 
 Row 1: 
-![alt text](https://github.com/annacnelson/matlabscripts/blob/main/row1.png?raw=true)
+![alt text](https://github.com/annacnelson/matlabscripts/blob/main/row1.png =250x)
 
 Row 2:
 ![alt text](https://github.com/annacnelson/matlabscripts/blob/main/row2.png?raw=true)
